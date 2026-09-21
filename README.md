@@ -1,6 +1,6 @@
-# Olá, eu sou o Edson Almeida! 👋
+#Edson Almeida.
 
-Desenvolvedor de **Sistemas Embarcados** e **Projetos de Hardware**, apaixonado por eletrônica de baixo nível e instrumentação.
+Desenvolvedor de **Sistemas Embarcados** e **Projetos de Hardware**.
 
 ### 🛠️ Tecnologias & Hardware:
 - 🎛️ **Microcontroladores:** AVR (ATmega), MSP430, PIC | 🚀 *Iniciando estudos em STM32 (ARM Cortex-M)*
