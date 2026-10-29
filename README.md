@@ -6,7 +6,7 @@ Desenvolvedor de **Sistemas Embarcados** e **Projetos de Hardware**.
 
 ### 🛠️ Tecnologias & Hardware
 
-- 🎛️ **Microcontroladores:** AVR (ATmega), MSP430, PIC | 🚀 *Iniciando estudos em STM32 (ARM Cortex-M)*
+- 🎛️ **Microcontroladores:** AVR (ATmega), MSP430, PIC, STM32 (ARM Cortex-M)*
 - 💻 **Firmware:** C/C++ Bare-Metal, manipulação direta de registradores, comunicação de periféricos e leitura analógica.
 - 📐 **Hardware (KiCad):** Esquemáticos hierárquicos, PCB design, fontes de alimentação, hardware embarcado e condicionamento de sinais.
 - 🔬 **Eletrônica Analógica:** Amplificadores operacionais, conversores de tensão linear, conversores DC/DC e AC/DC, geração de onda e filtragem.
